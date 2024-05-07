@@ -14,6 +14,10 @@ or click "start.bat".
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Major skill
-  Next.js(TypeScript)
-  Tailwind CSS
-  scss
+  Next.js(TypeScript),
+  
+  Tailwind CSS,
+  
+  scss,
+  
+  react-to-print
